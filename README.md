@@ -1,17 +1,29 @@
-# Terms and Conditions of Use
+# 🎮 GMES
 
-### Important Restrictions and Disclaimer
+[![Version](https://img.shields.io/badge/version-0.18-blue)](#)
+[![Platform](https://img.shields.io/badge/platform-Web%20%7C%20Browser-orange)](#)
 
-1. **Prohibition of Use in Educational Institutions**
-   * The use of this bookmark manager project, its component folders, link collections, or any associated materials within the premises or educational processes of schools and other academic institutions is strictly prohibited.
+**GMES** is a lightweight, stealth-oriented bookmark and utility suite designed to provide quick access to games, web proxies, interactive bookmarklets, and AI tools. Structured as an importable browser bookmark file, it allows users to access web applications while maintaining a low profile.
 
-2. **Security of External Links**
-   * This repository contains hyperlinks to various external websites and resources. The author does not monitor or verify these links. Accessing them is performed at your own discretion and may present security risks to your device or data.
+---
 
-3. **Open Source Classification**
-   * This project is fully open source. The complete source code and structure are publicly available for modification, distribution, and review under the condition that all terms specified in this document are adhered to.
+## 🚀 Key Features
 
-4. **Limitation of Liability**
-   * All directories, bookmarks, and codes are provided on an "as is" basis. You assume full responsibility for the use of this project.
-   * The author shall not be held liable for any direct, indirect, incidental, or consequential damages, material losses, browser or device issues, or any other outcomes resulting from the use or misuse of this repository.
-   * 
+### 1. 🙈 Stealth Integration (Invisible Mode)
+Many games and AI tools within GMES launch using a stealth mechanism. They open inside clean `about:blank` windows masquerading under educational titles and favicons (such as *Smartschool*) to blend in with school environments.
+
+### 2. 🛠️ Custom Bookmarklets
+Interactive JavaScript utilities that run directly in your browser:
+* **InvisBrowser (V2.6 / V3):** A covert, sandboxed browser wrapper with a toggleable interface and privacy settings.
+* **GMES Edit V1:** An on-page editor allowing you to modify website text, swap images, and clear page ads in real-time.
+* **Ad Blocker & Helpers:** Custom scripts to remove page noise, manage history, and load utility tools.
+
+### 3. 🌐 Curated Categories
+
+| Category | Description | Examples |
+| :--- | :--- | :--- |
+| **Games** | Standard and stealth-embedded web games. | *Stickman Hook, BloxCraft, Vertex Gold* |
+| **OS Emulators** | Web-based operating systems. | *Anura OS, InfiniteMac, Prozilla* |
+| **Proxies** | Web unblockers for bypassing restrictions. | *InvisProxy, Nebula, Interstellar* |
+| **AI Assistants** | Invisible and direct access to major LLMs. | *BlackBox, WebLLM, DeepSeek, Gemini* |
+| **Tools** | Utilities for productivity, coding, and design. | *ASCII Draw, Python Compiler, Sound generators* |
